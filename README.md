@@ -10,7 +10,7 @@ A \*\*sample README.md\*\* to demonstrate common \*Markdown\* syntax you’ll us
 
 
 
-\## Why Markdown?
+## Why Markdown?
 
 
 
@@ -22,15 +22,15 @@ Markdown lets you write readable plain text that GitHub can render as a clean we
 
 
 
-\## Table of Contents
+## Table of Contents
 
 
 
-\- \[Project Overview](#project-overview)
+- \[Project Overview](#project-overview)
 
-\- \[Getting Started](#getting-started)
+- \[Getting Started](#getting-started)
 
-\- \[Commands](#commands)
+- \[Commands](#commands)
 
 \- \[Formatting Examples](#formatting-examples)
 
