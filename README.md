@@ -32,11 +32,11 @@ Markdown lets you write readable plain text that GitHub can render as a clean we
 
 - \[Commands](#commands)
 
-\- \[Formatting Examples](#formatting-examples)
+- \[Formatting Examples](#formatting-examples)
 
-\- \[Checklist](#checklist)
+- \[Checklist](#checklist)
 
-\- \[License](#license)
+- \[License](#license)
 
 
 
@@ -52,9 +52,9 @@ This repo contains:
 
 
 
-- Lecture notes
+\- Lecture notes
 
-- Code examples
+\- Code examples
 
 - Assignments
 
